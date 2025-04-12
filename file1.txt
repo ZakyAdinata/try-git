@@ -1,1 +1,2 @@
 coba tes file1.txt
+tambah baris baru nih 
