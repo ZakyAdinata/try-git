@@ -3,3 +3,5 @@ tambah baris baru nih
 fitur 1
 Mengubah file 1 di branch feature/a
 Mengubah file 1 di branch feature/b
+
+Ubah file 1 di fitur C
